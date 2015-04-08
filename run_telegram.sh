@@ -1,2 +1,3 @@
-/home/ckesc/Programs/Telegram/Telegram
+cd /home/ckesc/Programs/Telegram
+./Telegram
 xdotool search --onlyvisible --class "Telegram" windowactivate
